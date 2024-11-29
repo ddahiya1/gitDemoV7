@@ -2,3 +2,5 @@
 
 git basic commands
 git init
+
+git add

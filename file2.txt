@@ -2,3 +2,5 @@
 git advance commands
 
 git cherry-pick
+
+git reflog
