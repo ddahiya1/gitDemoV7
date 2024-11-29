@@ -4,3 +4,6 @@ git advance commands
 git cherry-pick
 
 git reflog
+
+
+git commit --amend
